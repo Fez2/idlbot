@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "idl-bot",
+  "private_key_id": "0391c0a6b9c9a7a9995a5b9df034717fb1d382b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCd1c0IGTB0idRZ\njJj9Dh7AV8vOFrehZijl2VqOntuEwyKBviu7srDZ2Wg4PM5QdDo89vNkeYnBnDp0\nvTxITV9/hRdvx+yx7F9NQVgXA/Z1WFNZryjYIfr4y9byRg0xX8i+geTLg1KZYj72\nrKZfg4hpOjL2pCvOWTOtClAoTDX5kWk20Ua3E5bTpXB01adKq4ji31WFSDs7EFLx\nK6Fk9D2tAR2TE1MJgHEzYXMt0u7lOUeYd9cLx9LdbttwN+XBRdNqWFEuu7SBnUKT\nrhiDWoFPAACCZ/aaMyiJ+xhulWT3andrDPmoaLHk36Zh4Oy5ZJiEoxbxqaUT+Kde\n+Db7tPYtAgMBAAECggEAAJ2eDQ8jmkVFGMwHXnoboXbm3pA/EWvUeBEfBkcyKDqG\n1OmY3mQ1zVg+NgF06LaLdyXsQpptQx73qw15L1YdVA37uaW7ZRJQKcNA+oDo3x+W\nWUsKs+d9wXlKQIjF7bP844RDSDMMlL7ajSIvDEN//KnPImnec4xuOu9jlwdkeajO\nyHMbc+6ne1ozZ0EUR6fVn8f2EUSPd93jwl1HOvjYre3g6zQCf8LspNLMFkAgy/Pz\nl2kKWLK866uf/EbpELDQ+Jm1p8UfD49/UoO1MY8iRzKyvqqqKnWQ8QPbdA4/ZJk4\nAPbOodNAOjqEEM+kfelZ/7HbvT0PRh4BH43cjdWktwKBgQDWbL4SZM+jxo05aIg0\nH/OUXYkqPTjDagmjhDUYNHcBh/8+waPgukWYUGOdnhYi4q2mpakwFV7gvo/Z1XZm\npNeTF6kbuR52kym4qwBc8vcxw6wFvuFrrDi8MdsTuF9KpiK+DK/nX5kWGJsS6mR4\n8N12MfoPxQhzzToLfngXUMuwBwKBgQC8cChwwTa+S2TrkL2MVFNKnl/cc6ZJf1Ln\nKlrvMBjJ8+4nLXRMgdyfIOiwhl2ndhI/WcgZSne0C5nFBiZ9o1mG5lscvZmjm4UO\ndGMZ0O3owAiAkVlVWxf8zXWF2E2vtZ7UaFcY4VdwnZ5QsUZLa7VgOVuMy0X1rrtB\nF4BvCeszKwKBgQDQK0goQVjYbiWjC1nYCQEIE/rbWA5ooOR0rCCDvEOg5/AkdAfu\nX8i7A6iCV/yzp4/gzsm/VbADzt2HJNbK9dQYCItzz7fEdEC3+MPkeTkFRisWdOcS\nCmQWSOyga4mPxlTKXzTTEptjuUWsCoS6aVUHr6NOdgIrsp1clU5vjFADNwKBgGbK\nr+TCIUCxE/5EWIHCRiVAO36gP6d8IxcizbQIgp03yUPp0bUiad0MMKKKyW/eQpn4\nOeVB8AZxBZKqhjim8OFbq3wEGVlcLrrx1lVw2TbL+ldX8mlTZcRrt54pnkcpRdkM\nieZyliZCdOgDrBrcSHaTE1O8Vw9sH42kalUoDfs9AoGAJdtsRljbanjpi/pwTacI\nkeU1j98v96B1pJj5LFxQXqpgyk1HGSc3ey3b77EZlxDeIQItdRKRB4m97kjU6aw4\nGCxue9pmWGayt3zP43LCiqNtN2LG2xr09WTMpyQz1J3++7OWrMEaVI+QPWfcqDnH\n8zaDYkWto0yRkCGuX011rpY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nukenoodles@idl-bot.iam.gserviceaccount.com",
+  "client_id": "109065346911634073851",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nukenoodles%40idl-bot.iam.gserviceaccount.com"
+}
